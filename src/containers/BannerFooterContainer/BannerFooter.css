@@ -1,0 +1,57 @@
+ /* .bannerfooterMain{ */
+    /* background: url("../img/bannerfooter.jpg") no-repeat;
+    background-size: cover;
+    background-position: center; */
+     /* display: flex;
+    align-items: center;
+    justify-content: center; */
+
+
+
+    /* margin-left: 3.2%;
+    margin-bottom: 5%;
+    height: 45vh;
+    width: 90%;   */
+    
+/* }  */
+/* .bannerfooter1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("../imgBanners/bannerfooter.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+   
+    height: 50vh;
+    margin-left: 5%;
+  
+}
+.bannerfooter2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("../imgBanners/bannerfooter2.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    margin-left: 5%;
+    
+} */
+/* .divfooter{   
+    display: flex;
+    align-items: center;
+    margin: 5%;
+    background-color: gray;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px 15px black ;
+    
+} */
+*{
+    scroll-behavior: smooth;
+}
+
+.carousel-inner2{
+    height: 100%!important;
+    margin-top: -40px;
+}

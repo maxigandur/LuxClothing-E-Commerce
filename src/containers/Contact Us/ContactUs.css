@@ -1,0 +1,28 @@
+.mainContact{
+    
+    height: 93vh;
+    width: 204vh;
+    background: url("../imgBanners/dark.jpg") no-repeat; 
+    padding: 10vh;
+    
+}
+.divContact{
+    background-color: rgba(128, 128, 128, 0.452);
+    border-radius: 40px;
+    height: 70vh;  
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+*{
+    scroll-behavior: smooth;
+}
+.divContact span{
+    font-size: 50px;
+    color: white;
+   margin-top: -200px;
+}
+.row {
+    color: white;
+}

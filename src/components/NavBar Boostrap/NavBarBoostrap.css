@@ -1,0 +1,30 @@
+.home{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+   
+}
+.submitbtn{
+    color: white!important; 
+    border: 2px solid green!important;
+}
+.submitbtn img{
+    width: 100px;
+    height: 50px;
+}
+.logo{
+    font-size: 30px!important;
+    align-items: center!important;
+    justify-content: center!important;
+    margin-bottom: 3px;
+    transition: .6s;
+}
+.logo:hover{
+    scale: 1.1;
+}
+.dropdown-menu{
+    z-index: 100045!important;
+}
+.barrita{
+    z-index: 100045!important;
+}

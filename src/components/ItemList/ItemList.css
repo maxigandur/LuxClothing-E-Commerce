@@ -1,0 +1,25 @@
+.divListItems{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    width: 90%;
+    margin-top:60px;
+    padding-bottom: 80px;
+    border-radius: 30px;
+    box-shadow: 15px 15px 15px 15px rgba(255, 255, 255, 0.187) ;
+  
+}
+.divbodyMain{
+    background: url("../img/dark.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+   
+}
+/* *:not(:empty) {
+     transform-style: flat!important; 
+} */
+.barrita{
+    position: relative;
+}

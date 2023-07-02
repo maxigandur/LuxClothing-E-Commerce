@@ -1,0 +1,7 @@
+#cart-Widget{ 
+    color: white;
+    font-size: 35px; 
+    cursor: pointer;
+    position: relative;
+    margin-top: 5px;
+}

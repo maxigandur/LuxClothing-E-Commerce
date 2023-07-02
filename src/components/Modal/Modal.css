@@ -1,0 +1,68 @@
+.modal-container{
+    text-align: center;  
+    height:99vh; 
+    backdrop-filter: blur(20px);
+    z-index: 99;
+    
+}
+.title{
+    font-size: 150px;
+}
+.body{
+    font-size: 50px;
+}
+.btnCancel{
+    font-size: 30px;   
+    border-bottom-left-radius: 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    background-color: white;
+}
+.btnSubmit{
+    
+    font-size: 25px;
+    height: 5vh;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.modal-container input{
+    margin-top: 2px;
+    font-size: 25px;
+    width: 50vh;
+    height: 5vh;
+}
+.divSubmit{
+    margin-top: 25px;
+    border-top: dotted 5px black;
+    padding: 20px;
+    
+}
+.divContainer{
+    position: fixed;
+    top: 0;
+    border: 5px solid black;
+    width: 80%; 
+    border-radius: 10px;
+
+}
+.modal-container h2{
+    padding-top: 5vh;
+}
+.modal-container p{
+    padding-top: 5vh;
+}
+
+.img{
+   background: url("../img/tienda.jpg") center  no-repeat;
+   background-size: cover;
+    width: 1400px;
+   height: 500px;  
+}
+.divFooter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

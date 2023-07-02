@@ -1,0 +1,11 @@
+*{
+    scroll-behavior: smooth;
+}
+
+.carousel-inner{
+    height: 100%;
+   
+}
+.carousel {
+    z-index: -11;
+}
